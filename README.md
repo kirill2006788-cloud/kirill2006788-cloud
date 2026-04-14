@@ -27,13 +27,17 @@
 - [`test-task-for-junior-backend-developer`](https://github.com/kirill2006788-cloud/test-task-for-junior-backend-developer) — Go backend with recurrence and scheduler logic.
 
 ## 🧠 Core Stack
-`Python` `Go` `TypeScript` `React` `Node.js` `PyQt6` `Docker` `PostgreSQL`
+`Python` `Go` `TypeScript` `JavaScript` `Dart` `SQL`
+
+`React` `Node.js` `Express` `Socket.io` `PyQt6` `Flutter`
+
+`PostgreSQL` `REST API` `WebSocket` `Docker` `Nginx` `Git/GitHub` `PowerShell`
 
 
 
 ## 🤝 Contact
-- Telegram: `@your_contact_here`
-- Email: `your_email_here`
+- Telegram: `@уцтери`
+- Email: `Kirill2006788@gmail.com`
 
 > Open to backend/fullstack/AI engineering opportunities.
 >
