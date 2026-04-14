@@ -29,11 +29,7 @@
 ## 🧠 Core Stack
 `Python` `Go` `TypeScript` `React` `Node.js` `PyQt6` `Docker` `PostgreSQL`
 
-## 📈 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kirill2006788-cloud&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirill2006788-cloud&layout=compact&theme=tokyonight" height="160"/>
-</p>
+
 
 ## 🤝 Contact
 - Telegram: `@your_contact_here`
