@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" alt="Kirill AI Engineer Banner" width="100%"/>
 </p>
 
-<h1 align="center">Hi, I'm Kirill 👋</h1>
+<h1 align="center">Hi, I'm Kirill 👋 / Привет, я Кирилл 👋</h1>
 <p align="center"><b>AI Engineer • Fullstack Developer • Product Builder</b></p>
 
 <p align="center">
@@ -11,10 +11,15 @@
   <img src="https://img.shields.io/badge/Realtime-WebSocket-60a5fa?style=for-the-badge"/>
 </p>
 
-## 🚀 About Me
+## 🇬🇧 EN — About Me
 - I build practical AI products from idea to production-like delivery.
 - I focus on systems that actually work: automation, realtime UX, and modular architecture.
 - I like hard engineering tasks: routing, state orchestration, integrations, and performance.
+
+## 🇷🇺 RU — Обо мне
+- Делаю прикладные AI-продукты: от идеи до рабочего результата.
+- Люблю системы, которые реально работают: автоматизация, realtime UX, модульная архитектура.
+- Сильная сторона — сложные инженерные задачи: роутинг, оркестрация состояний, интеграции и производительность.
 
 ## 🔥 Featured Projects
 - [`ai-pc-controller`](https://github.com/kirill2006788-cloud/ai-pc-controller) — AI desktop assistant portfolio edition (Neon City, HUD mode, Agent mode).
@@ -35,3 +40,5 @@
 - Email: `your_email_here`
 
 > Open to backend/fullstack/AI engineering opportunities.
+>
+> Открыт к предложениям по backend/fullstack/AI направлениям.
