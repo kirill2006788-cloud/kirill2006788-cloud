@@ -26,12 +26,19 @@
 - [`dragonmsg-portfolio-public`](https://github.com/kirill2006788-cloud/dragonmsg-portfolio-public) — Telegram-style messenger portfolio package.
 - [`test-task-for-junior-backend-developer`](https://github.com/kirill2006788-cloud/test-task-for-junior-backend-developer) — Go backend with recurrence and scheduler logic.
 
+## 💼 Production / Client Projects
+- [`krepkiymaster.ru`](https://krepkiymaster.ru/) — marketing website I built and launched; layout, frontend behavior, responsive UI, forms/policy pages, deployment.
+- [`lublino.dandypizza.com`](https://lublino.dandypizza.com/) — full project from scratch: storefront + admin workflows + cashier flow + account/order management.
+- [`@cryptoprotestbot`](https://t.me/cryptoprotestbot) — Telegram trading bot (Solana direction): bot commands, strategy modules, balance/position monitoring, data persistence, and operations scripts.
+
+> Public portfolio includes only architecture/business description. Source code for client/commercial work is private.
+
 ## 🧠 Core Stack
 `Python` `Go` `TypeScript` `JavaScript` `Dart` `SQL`
 
 `React` `Node.js` `Express` `Socket.io` `PyQt6` `Flutter`
 
-`PostgreSQL` `REST API` `WebSocket` `Docker` `Nginx` `Git/GitHub` `PowerShell`
+`PostgreSQL` `SQLite` `REST API` `WebSocket` `Telegram Bot API` `Solana` `Docker` `Nginx` `Git/GitHub` `PowerShell`
 
 
 
