@@ -6,20 +6,22 @@
 <p align="center"><b>AI Engineer • Fullstack Developer • Product Builder</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20Agents-00d4ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Desktop-PyQt6-00ff9c?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Realtime-WebSocket-60a5fa?style=for-the-badge"/>
+  <code>FOCUS</code> <code>AI AGENTS</code> <code>DESKTOP</code> <code>PYQT6</code> <code>REALTIME</code> <code>WEBSOCKET</code>
 </p>
 
 ## 🇬🇧 EN — About Me
-- I build practical AI products from idea to production-like delivery.
-- I focus on systems that actually work: automation, realtime UX, and modular architecture.
-- I like hard engineering tasks: routing, state orchestration, integrations, and performance.
+- Senior-level fullstack engineer focused on real delivery, not demo-only projects.
+- I build products end-to-end: architecture, backend, frontend, integrations, deployment, and support.
+- My shipped work includes AI desktop systems, realtime messenger architecture, commercial production sites, and Telegram trading automation.
+- I design modular systems: clear domain boundaries, scalable APIs, event-driven flows, and reliable operations.
+- Strong at turning raw business requirements into shipped features fast.
 
 ## 🇷🇺 RU — Обо мне
-- Делаю прикладные AI-продукты: от идеи до рабочего результата.
-- Люблю системы, которые реально работают: автоматизация, realtime UX, модульная архитектура.
-- Сильная сторона — сложные инженерные задачи: роутинг, оркестрация состояний, интеграции и производительность.
+- Senior fullstack разработчик: делаю проекты под ключ и довожу до продакшена.
+- Закрываю полный цикл: архитектура, backend, frontend, интеграции, деплой, поддержка.
+- Реальный опыт в AI/automation, realtime системах, коммерческих сайтах и Telegram-ботах.
+- Сильные стороны: системное мышление, скорость реализации, ответственность за результат, умение работать с хаосом и сложной логикой.
+- Фокус на рабочем продукте и бизнес-результате, а не на «красивом демо».
 
 ## 🔥 Featured Projects
 - [`ai-pc-controller`](https://github.com/kirill2006788-cloud/ai-pc-controller) — AI desktop assistant portfolio edition (Neon City, HUD mode, Agent mode).
@@ -40,10 +42,13 @@
 
 `PostgreSQL` `SQLite` `REST API` `WebSocket` `Telegram Bot API` `Solana` `Docker` `Nginx` `Git/GitHub` `PowerShell`
 
-
+## 💼 Work Format
+- Open to **freelance orders** (MVPs, commercial websites, bots, automation, backend APIs, admin systems).
+- Open to **full-time / contract roles** in product teams and companies.
+- Can work solo as an owner of full feature flow or as a strong senior contributor in a team.
 
 ## 🤝 Contact
-- Telegram: `@уцтери`
+- Telegram: `@HeyBro8664`
 - Email: `Kirill2006788@gmail.com`
 
 > Open to backend/fullstack/AI engineering opportunities.
