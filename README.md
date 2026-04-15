@@ -9,6 +9,18 @@
   <code>FOCUS</code> <code>AI AGENTS</code> <code>DESKTOP</code> <code>PYQT6</code> <code>REALTIME</code> <code>WEBSOCKET</code>
 </p>
 
+<p align="center">
+  <a href="https://t.me/HeyBro8664"><img src="https://img.shields.io/badge/Telegram-@HeyBro8664-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="mailto:Kirill2006788@gmail.com"><img src="https://img.shields.io/badge/Email-Kirill2006788%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://t.me/HeyBro8664?text=Hi%2C%20I%20want%20to%20order%20a%20project"><img src="https://img.shields.io/badge/Order%20a%20Project-Start%20Now-111827?style=for-the-badge&logo=rocket&logoColor=white" alt="Order a project"/></a>
+</p>
+
+<p align="center">
+  <a href="https://tenor.com/view/anime-girl-dancing-hakari-dance-lonely-gif-13337816897041770339">
+    <img src="https://media.tenor.com/uRlxzRNgp2MAAAAj/anime-girl.gif" alt="Anime Girl Dancing" width="320"/>
+  </a>
+</p>
+
 ## 🇬🇧 EN — About Me
 - Senior-level fullstack engineer focused on real delivery, not demo-only projects.
 - I build products end-to-end: architecture, backend, frontend, integrations, deployment, and support.
