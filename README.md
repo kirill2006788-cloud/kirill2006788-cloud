@@ -35,6 +35,12 @@
 - Strong at turning raw business requirements into shipped features fast.
 - I work in high-ownership mode: take vague ideas, define technical scope, implement, test, and ship.
 - I communicate clearly with business owners, product managers, and non-technical stakeholders.
+- I am comfortable owning the full lifecycle: discovery, architecture, implementation, QA, rollout, post-release support.
+- I combine product thinking with engineering discipline: I do not just "code tasks," I push for measurable outcomes.
+- I can operate solo with full responsibility and also plug into teams as a senior individual contributor.
+- Strong practical background in performance tuning, reliability hardening, incident handling, and production debugging.
+- I know how to prioritize under pressure, cut scope correctly, and still ship a stable version on time.
+- I can quickly audit a legacy codebase, find high-risk points, and build a realistic stabilization plan.
 
 ## 🇷🇺 RU — Обо мне
 - Senior fullstack разработчик: делаю проекты под ключ и довожу до продакшена.
@@ -44,6 +50,29 @@
 - Фокус на рабочем продукте и бизнес-результате, а не на «красивом демо».
 - Могу быстро подключиться к проекту, провести аудит, приоритизировать задачи и стабилизировать разработку.
 - Умею работать и как соло-исполнитель, и как senior инженер внутри команды.
+- Умею брать «сырой» запрос от бизнеса и доводить его до продакшен-решения с понятной архитектурой.
+- Хорошо работаю в условиях дедлайнов: режу scope грамотно, сохраняю качество критичных частей.
+- Закрываю не только фичи, но и эксплуатацию: логирование, мониторинг, fallback-сценарии, поддержка.
+- Быстро вхожу в чужой код, нахожу узкие места, риски по безопасности и точки роста по производительности.
+- Беру ответственность за конечный результат, а не за «выполненные пункты в таск-трекере».
+- Могу самостоятельно вести проект от идеи до релиза и дальнейшего развития.
+
+## 🔐 Cybersecurity & Reverse Engineering
+- Practical experience with security mindset: threat modeling, auth/session boundaries, input validation, abuse scenarios.
+- Build systems with secure defaults: env-based secrets, role separation, minimal exposure of internal surfaces.
+- Background in reverse-engineering-oriented tasks and low-level behavioral analysis.
+- R&D experience from private game tooling ecosystems (including CS2/VALORANT context) gave me deep understanding of anti-detection logic, runtime behavior, and defensive thinking.
+- I use this experience to design more robust backend flows, anti-abuse protections, and resilient automation systems.
+
+## 🧠 Skill Matrix
+| Area | What I actually do |
+|---|---|
+| Backend Engineering | Service boundaries, REST/WebSocket APIs, business logic, integration orchestration, data lifecycle. |
+| Frontend Engineering | Product UIs, admin panels, dashboards, responsive behavior, state flow for realtime interfaces. |
+| AI Systems | Multi-provider orchestration, local/remote model routing, tool invocation flows, fallback strategies. |
+| Data & Storage | PostgreSQL/SQLite schemas, migration discipline, query optimization, data consistency. |
+| Platform & Delivery | Docker/Nginx deploys, environment strategy, release flows, production support and troubleshooting. |
+| Security Thinking | Access boundaries, secret management, abuse resistance, secure-by-default integration patterns. |
 
 ## 🚀 What I Deliver
 - **Backend/API:** архитектура сервисов, REST/WebSocket API, auth, бизнес-логика, интеграции, БД.
@@ -57,7 +86,7 @@
 - Думаю не только как разработчик, но и как человек, отвечающий за конечный результат.
 - Хорошо работаю в условиях неопределённости и ограниченных сроков.
 
-## � Case Highlights
+## 📊 Case Highlights
 | Metric | Value |
 |---|---|
 | Projects in portfolio/public view | `6+` |
@@ -65,7 +94,7 @@
 | Real integrations/APIs handled | `5+` |
 | Main domains | `AI` `Realtime` `Web` `Automation` |
 
-## �🔥 Featured Projects
+## � Featured Projects
 - [`ai-pc-controller`](https://github.com/kirill2006788-cloud/ai-pc-controller) — AI desktop assistant portfolio edition (Neon City, HUD mode, Agent mode).
 - [`dragonmsg-portfolio-public`](https://github.com/kirill2006788-cloud/dragonmsg-portfolio-public) — Telegram-style messenger portfolio package.
 - [`test-task-for-junior-backend-developer`](https://github.com/kirill2006788-cloud/test-task-for-junior-backend-developer) — Go backend with recurrence and scheduler logic.
