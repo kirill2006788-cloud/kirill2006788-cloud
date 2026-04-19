@@ -108,7 +108,7 @@
 - Delivery format: from business requirements and UX logic to production-ready architecture, release prep, and operational support.
 - Current status: release preparation is in progress; apps will be available for download soon.
 
-## � Production / Client Projects
+## 💼 Production / Client Projects
 - [`krepkiymaster.ru`](https://krepkiymaster.ru/) — marketing website I built and launched; layout, frontend behavior, responsive UI, forms/policy pages, deployment.
 - [`lublino.dandypizza.com`](https://lublino.dandypizza.com/) — full project from scratch: storefront + admin workflows + cashier flow + account/order management.
 - [`@cryptoprotestbot`](https://t.me/cryptoprotestbot) — Telegram trading bot (Solana direction): bot commands, strategy modules, balance/position monitoring, data persistence, and operations scripts.
@@ -127,11 +127,13 @@
 > Public portfolio includes only architecture/business description. Source code for client/commercial work is private.
 
 ## 🧠 Core Stack
-`Python` `Go` `TypeScript` `JavaScript` `Dart` `SQL`
+`Python` `Go` `TypeScript` `JavaScript` `Dart` `SQL` `Bash` `PowerShell` `C` `C++`
 
 `React` `Node.js` `Express` `Socket.io` `PyQt6` `Flutter`
 
 `PostgreSQL` `SQLite` `REST API` `WebSocket` `Telegram Bot API` `Solana` `Docker` `Nginx` `Git/GitHub` `PowerShell`
+
+`OWASP` `Burp Suite` `Wireshark` `Nmap` `Metasploit` `IDA` `Ghidra` `x64dbg` `Frida` `Threat Modeling` `API Security` `Reverse Engineering`
 
 ## 💼 Work Format
 - Open to **freelance orders** (MVPs, commercial websites, bots, automation, backend APIs, admin systems).
