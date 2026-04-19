@@ -114,7 +114,7 @@
 - [`izibot`](https://t.me/izishopstorebot) — Telegram shop bot with nested catalog, stock-aware product cards, order flow, payment-by-transfer logic, and in-bot admin panel for categories/products/orders.
 - [`@izishopstorebot`](https://t.me/izishopstorebot) — live bot link.
 - [`@cryptoprotestbot`](https://t.me/cryptoprotestbot) — Telegram trading bot (Solana direction): bot commands, strategy modules, balance/position monitoring, data persistence, and operations scripts.
-- `bot it` (private project) — powerful AI developer assistant bot: GitHub automation, auto-test flows, performance profiling, documentation generation, security checks, webhook/API integrations, and advanced productivity tooling in one system.
+- [`bot it / @Ego322_bot`](https://t.me/Ego322_bot) — multifunction Telegram AI assistant with voice features, code/docs generators, media tooling (image/GIF/icon/wallpaper), project helpers, reminders/notifications, and web/API utilities.
 - [`valorantstrike.com/valorant-store`](https://valorantstrike.com/valorant-store/) — analytics/product project in gaming domain with practical growth-oriented delivery.
 - [`@Buddy_musicbot`](https://t.me/Buddy_musicbot) — Telegram music bot with queue/control scenarios and production user load.
 
