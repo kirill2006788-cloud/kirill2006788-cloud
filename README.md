@@ -99,14 +99,16 @@
 - [`dragonmsg-portfolio-public`](https://github.com/kirill2006788-cloud/dragonmsg-portfolio-public) — Telegram-style messenger portfolio package.
 - [`test-task-for-junior-backend-developer`](https://github.com/kirill2006788-cloud/test-task-for-junior-backend-developer) — Go backend with recurrence and scheduler logic.
 
-## � Mobile Apps (Trezv777)
-- Built from scratch for **[`www.trezv777.ru`](https://www.trezv777.ru/)** as a two-app mobile system.
-- **Client app**: OTP auth, route/ETA, order flow, realtime status updates, rating/history.
-- **Driver app**: incoming orders, full trip state-machine, maps/navigation, preorder logic, push/sound alerts.
-- Key engineering complexity: realtime synchronization between two roles, resilient socket flows, recovery after reconnects, and production-safe config handling.
-- App releases are in final preparation stage and will be available for download soon.
+## 📱 Mobile Apps (Trezv777)
+- Built from scratch for **[`www.trezv777.ru`](https://www.trezv777.ru/)** as a full mobile ecosystem with two separate apps.
+- Repository: [`trezv777-mobile-suite`](https://github.com/kirill2006788-cloud/trezv777-mobile-suite)
+- **Client app**: OTP auth, map-based pickup/destination flow, route and ETA preview, order creation, realtime status, order history and rating.
+- **Driver app**: incoming orders, accept/decline actions, full trip state machine, map/navigation flow, preorder logic, push and sound alerts.
+- Major complexity solved: realtime synchronization between client and driver roles, robust socket reconnect behavior, active-order state recovery, and safe production config strategy.
+- Delivery format: from business requirements and UX logic to production-ready architecture, release prep, and operational support.
+- Current status: release preparation is in progress; apps will be available for download soon.
 
-## �💼 Production / Client Projects
+## � Production / Client Projects
 - [`krepkiymaster.ru`](https://krepkiymaster.ru/) — marketing website I built and launched; layout, frontend behavior, responsive UI, forms/policy pages, deployment.
 - [`lublino.dandypizza.com`](https://lublino.dandypizza.com/) — full project from scratch: storefront + admin workflows + cashier flow + account/order management.
 - [`@cryptoprotestbot`](https://t.me/cryptoprotestbot) — Telegram trading bot (Solana direction): bot commands, strategy modules, balance/position monitoring, data persistence, and operations scripts.
@@ -117,6 +119,10 @@
 - Rapid production audit of a real website (example: [`krepkiymaster.ru`](https://krepkiymaster.ru/)): layout, JS behavior, mobile issues, UX bottlenecks.
 - Fix 1–3 critical bugs immediately and improve conversion in key CTA/form blocks.
 - Deliver concise action report: what was broken, what was fixed, and prioritized next steps.
+
+## 🌐 More About Me
+- Personal extended profile: [lukyforrer-glitch.github.io](https://lukyforrer-glitch.github.io/)
+- Includes additional background on projects, cybersecurity direction, and professional focus.
 
 > Public portfolio includes only architecture/business description. Source code for client/commercial work is private.
 
