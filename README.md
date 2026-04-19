@@ -94,15 +94,29 @@
 | Real integrations/APIs handled | `5+` |
 | Main domains | `AI` `Realtime` `Web` `Automation` |
 
-## � Featured Projects
+## 🔥 Featured Projects
 - [`ai-pc-controller`](https://github.com/kirill2006788-cloud/ai-pc-controller) — AI desktop assistant portfolio edition (Neon City, HUD mode, Agent mode).
 - [`dragonmsg-portfolio-public`](https://github.com/kirill2006788-cloud/dragonmsg-portfolio-public) — Telegram-style messenger portfolio package.
 - [`test-task-for-junior-backend-developer`](https://github.com/kirill2006788-cloud/test-task-for-junior-backend-developer) — Go backend with recurrence and scheduler logic.
 
-## 💼 Production / Client Projects
+## � Mobile Apps (Trezv777)
+- Built from scratch for **[`www.trezv777.ru`](https://www.trezv777.ru/)** as a two-app mobile system.
+- **Client app**: OTP auth, route/ETA, order flow, realtime status updates, rating/history.
+- **Driver app**: incoming orders, full trip state-machine, maps/navigation, preorder logic, push/sound alerts.
+- Key engineering complexity: realtime synchronization between two roles, resilient socket flows, recovery after reconnects, and production-safe config handling.
+- App releases are in final preparation stage and will be available for download soon.
+
+## �💼 Production / Client Projects
 - [`krepkiymaster.ru`](https://krepkiymaster.ru/) — marketing website I built and launched; layout, frontend behavior, responsive UI, forms/policy pages, deployment.
 - [`lublino.dandypizza.com`](https://lublino.dandypizza.com/) — full project from scratch: storefront + admin workflows + cashier flow + account/order management.
 - [`@cryptoprotestbot`](https://t.me/cryptoprotestbot) — Telegram trading bot (Solana direction): bot commands, strategy modules, balance/position monitoring, data persistence, and operations scripts.
+- [`valorantstrike.com/valorant-store`](https://valorantstrike.com/valorant-store/) — analytics/product project in gaming domain with practical growth-oriented delivery.
+- [`@Buddy_musicbot`](https://t.me/Buddy_musicbot) — Telegram music bot with queue/control scenarios and production user load.
+
+## ⚡ What I can do in 1 hour
+- Rapid production audit of a real website (example: [`krepkiymaster.ru`](https://krepkiymaster.ru/)): layout, JS behavior, mobile issues, UX bottlenecks.
+- Fix 1–3 critical bugs immediately and improve conversion in key CTA/form blocks.
+- Deliver concise action report: what was broken, what was fixed, and prioritized next steps.
 
 > Public portfolio includes only architecture/business description. Source code for client/commercial work is private.
 
