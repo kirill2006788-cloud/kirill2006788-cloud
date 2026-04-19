@@ -111,7 +111,10 @@
 ## 💼 Production / Client Projects
 - [`krepkiymaster.ru`](https://krepkiymaster.ru/) — marketing website I built and launched; layout, frontend behavior, responsive UI, forms/policy pages, deployment.
 - [`lublino.dandypizza.com`](https://lublino.dandypizza.com/) — full project from scratch: storefront + admin workflows + cashier flow + account/order management.
+- [`izibot`](https://t.me/izishopstorebot) — Telegram shop bot with nested catalog, stock-aware product cards, order flow, payment-by-transfer logic, and in-bot admin panel for categories/products/orders.
+- [`@izishopstorebot`](https://t.me/izishopstorebot) — live bot link.
 - [`@cryptoprotestbot`](https://t.me/cryptoprotestbot) — Telegram trading bot (Solana direction): bot commands, strategy modules, balance/position monitoring, data persistence, and operations scripts.
+- `bot it` (private project) — powerful AI developer assistant bot: GitHub automation, auto-test flows, performance profiling, documentation generation, security checks, webhook/API integrations, and advanced productivity tooling in one system.
 - [`valorantstrike.com/valorant-store`](https://valorantstrike.com/valorant-store/) — analytics/product project in gaming domain with practical growth-oriented delivery.
 - [`@Buddy_musicbot`](https://t.me/Buddy_musicbot) — Telegram music bot with queue/control scenarios and production user load.
 
